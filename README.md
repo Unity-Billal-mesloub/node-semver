@@ -213,7 +213,7 @@ Note that this behavior can be suppressed (treating all prerelease
 versions as if they were normal versions, for range-matching)
 by setting the `includePrerelease` flag on the options
 object to any
-[functions](https://github.com/npm/node-semver#functions) that do
+[functions](https://github.com/Unity-Billal-mesloub/node-semver#functions) that do
 range matching.
 
 #### Prerelease Identifiers
@@ -417,7 +417,7 @@ are:
   argument is a boolean value instead of an object, it is interpreted
   to be the `loose` param.
 - `includePrerelease`: Set to suppress the [default
-  behavior](https://github.com/npm/node-semver#prerelease-tags) of
+  behavior](https://github.com/Unity-Billal-mesloub/node-semver#prerelease-tags) of
   excluding prerelease tagged versions from ranges unless they are
   explicitly opted into.
 
